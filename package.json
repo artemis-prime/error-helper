@@ -1,0 +1,23 @@
+{
+  "name": "@artemis-prime/error-helper",
+  "version": "1.0.2",
+  "description": "Error formating utility",
+  "main": "index.js",
+  "scripts": {
+	  "_start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemis-prime/error-helper.git"
+  },
+  "keywords": [
+    "error",
+    "node"
+  ],
+  "author": "artemis-prime",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/artemis-prime/error-helper/issues"
+  },
+  "homepage": "https://github.com/artemis-prime/error-helper#readme"
+}
